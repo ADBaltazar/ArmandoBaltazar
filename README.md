@@ -24,10 +24,10 @@
 
 ## Olá, eu sou o Baltazar, Programador Backend 👋 
 
-Sou movido pelo desafio de transformar ideias em sistemas **estáveis, escaláveis e que realmente funcionam no dia a dia**. No meu dia à dia profissional, trabalho principalmente com **Node.js** e **APIs**, e embora eu tenha experiência em projetos full stack  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> *+* <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">, é no **BACKEND** por onde me encontro.
+Sou movido pelo desafio de transformar ideias em sistemas **estáveis, escaláveis e que realmente funcionam no dia a dia**. Em minha jornada trabalho principalmente com **Node.js** e **APIs**, e embora eu tenha experiência em projetos full stack  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> *+* <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">, é no **BACKEND** por onde me encontro.
 Atualmente estou explorando o mundo do **DevOps** e me dedicando ao meu **autodesenvolvimento**, buscando aprimorar minhas habilidades e conhecimentos para escrever código de qualidade e me manter atualizado. 
 
-DÊ uma vista de olho, em alguns dos meus projetos mais recentes e acompanhe minha jornada de aprendizado. Cada projeto é uma oportunidade de criar soluções reais e aprender algo novo!
+Dê uma vista de olho, em alguns dos meus projetos mais recentes e acompanhe minha jornada de aprendizado. Cada projeto é uma oportunidade de criar soluções reais e aprender algo novo!
 
 ### Tecnologias & Ferramentas
 <div style="display: inline_block"><br>
@@ -76,4 +76,5 @@ DÊ uma vista de olho, em alguns dos meus projetos mais recentes e acompanhe min
   <a href="https://github.com/ADBaltazar/ArmandoBaltazar" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/armandodunguebaltazar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:armandobaltazar38@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  
 </div>
