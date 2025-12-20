@@ -1,8 +1,26 @@
-<!-- Foto de Perfil -->
-<div align="center">
-  <img src="" alt="Foto do Baltazar" width="150" height="150" style="border-radius:50%;">
-  <p style="margin:4px 0 0;">Backend Developer • Node.js • APIs • DevOps</p>
-</div>
+<p align="center">
+  <svg width="180" height="180" viewBox="0 0 180 180">
+    <defs>
+      <clipPath id="circleView">
+        <circle cx="90" cy="90" r="80"/>
+      </clipPath>
+      <filter id="shadow">
+        <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.5"/>
+      </filter>
+    </defs>
+    <circle cx="90" cy="90" r="82" fill="#22c55e"/>
+    <image 
+      href="./Perfil Armando Baltazar.jpeg"
+      width="160"
+      height="160"
+      x="10"
+      y="10"
+      clip-path="url(#circleView)"
+      filter="url(#shadow)"
+    />
+  </svg>
+</p>
+
 
 ## Olá, eu sou o Baltazar, Programador Backend 👋 
 
