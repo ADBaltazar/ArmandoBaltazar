@@ -24,10 +24,10 @@
 
 ## Olá, eu sou o Baltazar, Programador Backend 👋 
 
-Sou movido pelo desafio de transformar ideias em sistemas **estáveis, escaláveis e que realmente funcionam no dia a dia**. Em minha jornada trabalho principalmente com **Node.js** e **APIs**, e embora eu tenha experiência em projetos full stack  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> *+* <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">, é no **BACKEND** por onde me encontro.
+Sou movido pelo desafio de transformar ideias em sistemas que **realmente funcionam**. Em minha jornada trabalho principalmente com **Node.js** e **APIs**, e embora eu tenha experiência em projetos full stack  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> *+* <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">, é no **BACKEND** por onde me encontro.
 Atualmente estou explorando o mundo do **DevOps** e me dedicando ao meu **autodesenvolvimento**, buscando aprimorar minhas habilidades e conhecimentos para escrever código de qualidade e me manter atualizado. 
 
-Dê uma vista de olho, em alguns dos meus projetos mais recentes e acompanhe minha jornada de aprendizado. Cada projeto é uma oportunidade de criar soluções reais e aprender algo novo!
+Dê uma vista de olho, em alguns dos meus projetos mais recentes e acompanhe minha jornada de aprendizado. Para mim, Cada projeto é uma oportunidade de criar soluções reais e aprender algo novo!
 
 ### Tecnologias & Ferramentas
 <div style="display: inline_block"><br>
